@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.boydti</groupId>
             <artifactId>fawe-api</artifactId>
-            <version>18.08.15-a703bba-1184-21.1.1</version>
+            <version>latest</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -28,9 +28,9 @@
             <artifactId>uSkyBlock-Core</artifactId>
         </dependency>
         <dependency> <!-- Bukkit implementation -->
-            <groupId>org.bukkit</groupId>
-            <artifactId>bukkit</artifactId>
-            <version>1.13-R0.1-SNAPSHOT</version>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot</artifactId>
+            <version>1.13.2-R0.1-SNAPSHOT</version>
             <optional>true</optional>
             <scope>compile</scope>
         </dependency>

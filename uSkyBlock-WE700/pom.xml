@@ -24,9 +24,9 @@
             <optional>true</optional>
         </dependency>
         <dependency> <!-- Bukkit implementation -->
-            <groupId>org.bukkit</groupId>
-            <artifactId>bukkit</artifactId>
-            <version>1.13-R0.1-SNAPSHOT</version>
+            <groupId>org.spigotmc</groupId>
+            <artifactId>spigot</artifactId>
+            <version>1.13.2-R0.1-SNAPSHOT</version>
             <optional>true</optional>
             <scope>compile</scope>
         </dependency>
